@@ -21,7 +21,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="">
+                            <a class="nav-link" href="https://bankitomi26.github.io/end/">
                                 Home
                                 <span class="sr-only">(current)</span>
                             </a>
@@ -39,7 +39,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <h1 class="mt-5">The sublime object</h1>
-                         <p> "Minden igaz művészet, írta Novalis egy töredékben, valami szellemit valósít meg >>belülről kifelé<<; minden műalkotás egy én eredménye, belsőnk manifesztációja."</p>
+                         <p>  <strong>"Minden igaz művészet, írta Novalis egy töredékben, valami szellemit valósít meg >>belülről kifelé<<; minden műalkotás egy én eredménye, belsőnk manifesztációja."</strong></p>
                     </div>
                 </div>
             </div>
